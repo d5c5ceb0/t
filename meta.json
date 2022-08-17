@@ -2,5 +2,6 @@
   "name": "Astarter",
   "description": "The first Astarter official staking pool",
   "ticker": "AA1",
-  "homepage": "https://astarter.io/"
+  "homepage": "https://astarter.io/",
+  "extended": "https://raw.githubusercontent.com/d5c5ceb0/t/main/externed.json"
 }
