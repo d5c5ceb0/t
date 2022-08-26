@@ -1,32 +1,31 @@
 {
-    "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/d5c5ceb0/t/main/icon.png",
-            "url_png_logo": "https://raw.githubusercontent.com/d5c5ceb0/t/main/icon.png",
-            "location": "",
-            "social": {
-                "twitter_handle": "",
-                "telegram_handle": "",
-                "facebook_handle": "",
-                "youtube_handle": "",
-                "twitch_handle": "",
-                "discord_handle": "",
-                "github_handle": ""
-            },
-            "company": {
-                "name": "",
-                "addr": "",
-                "city": "",
-                "country": "",
-                "company_id": "",
-                "vat_id": ""
-            },
-            "about": {
-                "me": "",
-                "server": "",
-                "company": ""
-            }
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/d5c5ceb0/t/main/icon.png",
+    "url_png_logo": "https://raw.githubusercontent.com/d5c5ceb0/t/main/icon.png",
+    "location": "Singapore",
+    "social": {
+      "twitter_handle": "https://twitter.com/Astarter_Pad",
+      "telegram_handle": "https://t.me/astartergroup",
+      "medium_handle": "https://medium.com/@Astarter_Pad",
+      "Youtube_handle": "https://www.youtube.com/c/astartertv",
+      "linkedin_handle": "https://www.linkedin.com/company/astarter",
+      "discord_handle": "https://discord.com/invite/6s2GjWX6s4",
+      "github_handle": "https://github.com/Astarter-DeFi-Hub"
     },
-        "my-pool-ids": { },
-
-        "telegram-admin-handle": { }
+    "company": {
+      "name": "Astarter",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Member of the Astarter tech team and official SPO for the Astarter project specific stake pool AA1",
+      "server": "High Spec",
+      "company": "Astarter DeFi Infrastructure Hub on Cardano"
+    }
+  },
+  "my-pool-ids": {},
+  "telegram-admin-handle": {}
 }
